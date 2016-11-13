@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.jhutchinson.foodapp.ChooseImage"
+    tools:paddingBottom="0dp"
+    tools:paddingLeft="0dp"
+    tools:paddingRight="0dp"
+    tools:paddingTop="0dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:id="@+id/button6"
+                android:background="@android:drawable/ic_menu_add"
+                android:minWidth="48dip"
+                android:onClick="addItem" />
+
+            <android.support.v7.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:theme="?attr/actionBarTheme"
+                android:minHeight="?attr/actionBarSize"
+                android:id="@+id/toolbar3"
+                android:layout_alignParentTop="true" />
+
+        </RelativeLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lview" />
+
+    </LinearLayout>
+
+</RelativeLayout>

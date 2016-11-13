@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="0dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="0dp"
+    tools:context="com.example.jhutchinson.foodapp.ChooseImage">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button3"
+                android:background="@android:drawable/ic_menu_camera"
+                android:minWidth="48dip"
+                android:onClick="takeImage"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_weight="1" />
+
+            <android.support.v7.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:theme="?attr/actionBarTheme"
+                android:minHeight="?attr/actionBarSize"
+                android:id="@+id/toolbar2"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_weight="1" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/button2"
+                android:background="@android:drawable/ic_menu_revert"
+                android:minWidth="48dip"
+                android:layout_alignBottom="@+id/toolbar2"
+                android:onClick="goBack"
+                android:layout_weight="1" />
+        </RelativeLayout>
+
+        <TextView
+            android:text="Take a photo of food with the camera button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:layout_marginTop="14dp"
+            android:layout_below="@+id/button2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_weight="0.10"
+            android:textAlignment="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:id="@+id/textView2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_above="@+id/imageView3"
+            android:layout_below="@+id/textView3"
+            android:textAlignment="center" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            app:srcCompat="@android:color/transparent"
+            android:id="@+id/imageView3"
+            android:layout_marginBottom="61dp"
+            android:layout_alignBottom="@+id/button4"
+            android:layout_toLeftOf="@+id/textView2"
+            android:layout_toStartOf="@+id/textView2"
+            android:scaleType="center"
+            android:layout_weight="0.59" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="148dp">
+
+            <Button
+                android:text="Use Image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button4"
+                android:onClick="useImage"
+                android:enabled="false"
+                android:layout_marginTop="58dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
