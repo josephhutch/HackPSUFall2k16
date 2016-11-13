@@ -1,0 +1,286 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ProductDescriptionCell"
+provides-nominal:
+- "C13TESTIBMSPEECH22ProductDescriptionCell"
+provides-member:
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", ""]
+provides-dynamic-lookup:
+- "totalFatLabel"
+- "totalProteinLabel"
+- "nameLabel"
+- "totalCarbohydratesLabel"
+depends-top-level:
+- "ProductDescriptionCell"
+- "UITableViewCell"
+- "UILabel"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "nameLabel"]
+- ["Ps9AnyObject", "totalCarbohydratesLabel"]
+- ["Ps9AnyObject", "totalFatLabel"]
+- ["Ps9AnyObject", "totalProteinLabel"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "init"]
+- ["PSo15CALayerDelegate", "nameLabel"]
+- ["PSo15CALayerDelegate", "totalCarbohydratesLabel"]
+- ["PSo15CALayerDelegate", "totalFatLabel"]
+- ["PSo15CALayerDelegate", "totalProteinLabel"]
+- ["PSo15CALayerDelegate", ""]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "nameLabel"]
+- ["Ps7CVarArg", "totalCarbohydratesLabel"]
+- ["Ps7CVarArg", "totalFatLabel"]
+- ["Ps7CVarArg", "totalProteinLabel"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "nameLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalCarbohydratesLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalFatLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalProteinLabel"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "nameLabel"]
+- ["Ps23CustomStringConvertible", "totalCarbohydratesLabel"]
+- ["Ps23CustomStringConvertible", "totalFatLabel"]
+- ["Ps23CustomStringConvertible", "totalProteinLabel"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "nameLabel"]
+- ["Ps9Equatable", "totalCarbohydratesLabel"]
+- ["Ps9Equatable", "totalFatLabel"]
+- ["Ps9Equatable", "totalProteinLabel"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "nameLabel"]
+- ["Ps8Hashable", "totalCarbohydratesLabel"]
+- ["Ps8Hashable", "totalFatLabel"]
+- ["Ps8Hashable", "totalProteinLabel"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "nameLabel"]
+- ["PSo8NSCoding", "totalCarbohydratesLabel"]
+- ["PSo8NSCoding", "totalFatLabel"]
+- ["PSo8NSCoding", "totalProteinLabel"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "nameLabel"]
+- ["CSo8NSObject", "totalCarbohydratesLabel"]
+- ["CSo8NSObject", "totalFatLabel"]
+- ["CSo8NSObject", "totalProteinLabel"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "nameLabel"]
+- ["PSo16NSObjectProtocol", "totalCarbohydratesLabel"]
+- ["PSo16NSObjectProtocol", "totalFatLabel"]
+- ["PSo16NSObjectProtocol", "totalProteinLabel"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "UILabel"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "deinit"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "init"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "nameLabel"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "totalCarbohydratesLabel"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "totalFatLabel"]
+- ["C13TESTIBMSPEECH22ProductDescriptionCell", "totalProteinLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "nameLabel"]
+- ["PSo29UIAccessibilityIdentification", "totalCarbohydratesLabel"]
+- ["PSo29UIAccessibilityIdentification", "totalFatLabel"]
+- ["PSo29UIAccessibilityIdentification", "totalProteinLabel"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "nameLabel"]
+- ["PSo12UIAppearance", "totalCarbohydratesLabel"]
+- ["PSo12UIAppearance", "totalFatLabel"]
+- ["PSo12UIAppearance", "totalProteinLabel"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "nameLabel"]
+- ["PSo21UIAppearanceContainer", "totalCarbohydratesLabel"]
+- ["PSo21UIAppearanceContainer", "totalFatLabel"]
+- ["PSo21UIAppearanceContainer", "totalProteinLabel"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "nameLabel"]
+- ["PSo17UICoordinateSpace", "totalCarbohydratesLabel"]
+- ["PSo17UICoordinateSpace", "totalFatLabel"]
+- ["PSo17UICoordinateSpace", "totalProteinLabel"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "nameLabel"]
+- ["PSo13UIDynamicItem", "totalCarbohydratesLabel"]
+- ["PSo13UIDynamicItem", "totalFatLabel"]
+- ["PSo13UIDynamicItem", "totalProteinLabel"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "nameLabel"]
+- ["PSo18UIFocusEnvironment", "totalCarbohydratesLabel"]
+- ["PSo18UIFocusEnvironment", "totalFatLabel"]
+- ["PSo18UIFocusEnvironment", "totalProteinLabel"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "init"]
+- ["PSo11UIFocusItem", "nameLabel"]
+- ["PSo11UIFocusItem", "totalCarbohydratesLabel"]
+- ["PSo11UIFocusItem", "totalFatLabel"]
+- ["PSo11UIFocusItem", "totalProteinLabel"]
+- ["PSo11UIFocusItem", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "nameLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "totalCarbohydratesLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "totalFatLabel"]
+- ["PSo27UIGestureRecognizerDelegate", "totalProteinLabel"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "nameLabel"]
+- ["CSo11UIResponder", "totalCarbohydratesLabel"]
+- ["CSo11UIResponder", "totalFatLabel"]
+- ["CSo11UIResponder", "totalProteinLabel"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "nameLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalCarbohydratesLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalFatLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalProteinLabel"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "deinit"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "nameLabel"]
+- ["CSo15UITableViewCell", "totalCarbohydratesLabel"]
+- ["CSo15UITableViewCell", "totalFatLabel"]
+- ["CSo15UITableViewCell", "totalProteinLabel"]
+- ["CSo15UITableViewCell", ""]
+- ["OSC20UITableViewCellStyle", "deinit"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "nameLabel"]
+- ["PSo18UITraitEnvironment", "totalCarbohydratesLabel"]
+- ["PSo18UITraitEnvironment", "totalFatLabel"]
+- ["PSo18UITraitEnvironment", "totalProteinLabel"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "nameLabel"]
+- ["CSo6UIView", "totalCarbohydratesLabel"]
+- ["CSo6UIView", "totalFatLabel"]
+- ["CSo6UIView", "totalProteinLabel"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "nameLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "totalCarbohydratesLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "totalFatLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", "totalProteinLabel"]
+- ["Ps37_DefaultCustomPlaygroundQuickLookable", ""]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "nameLabel"]
+- ["Ps9_Hashable", "totalCarbohydratesLabel"]
+- ["Ps9_Hashable", "totalFatLabel"]
+- ["Ps9_Hashable", "totalProteinLabel"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- "C13TESTIBMSPEECH22ProductDescriptionCell"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo11UIFocusItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "CSo15UITableViewCell"
+- "OSC20UITableViewCellStyle"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCrash/Frameworks/frameworks/FirebaseCrash.framework/Headers/FIRCrashLog.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCrash/Frameworks/frameworks/FirebaseCrash.framework/Headers/FirebaseCrash.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCrash/Frameworks/frameworks/FirebaseCrash.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseMessaging/Frameworks/frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseMessaging/Frameworks/frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseMessaging/Frameworks/frameworks/FirebaseMessaging.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Modules/VisualRecognitionV3.swiftmodule/arm64.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Modules/RestKit.swiftmodule/arm64.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Headers/RestKit-Swift.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Headers/RestKit.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Headers/VisualRecognitionV3-Swift.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Headers/VisualRecognitionV3.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Modules/module.modulemap"
+interface-hash: "d6651b3f6f2ed209da5a4bcbfa3caec9"

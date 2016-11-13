@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "87429f8dc135441b7442cd11ab6bb60f"
+build_time: [532372585, 381082000]
+inputs:
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/PermissionViewController.swift": [532350042, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/AppDelegate.swift": [532353725, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/AddProductViewController.swift": [532366734, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/ConfirmProductViewController.swift": [532372529, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/TodayViewController.swift": [532350720, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/InitViewController.swift": [532329076, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/ProductDescriptionCell.swift": [532330382, 0]
+  "/Users/artemiygalkin/Programming/FoodKitIOS/TESTIBMSPEECH/Product.swift": [532345713, 0]

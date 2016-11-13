@@ -1,0 +1,600 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "InitViewController"
+provides-nominal:
+- "C13TESTIBMSPEECH18InitViewController"
+provides-member:
+- ["C13TESTIBMSPEECH18InitViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- !private "UIAlertAction"
+- !private "print"
+- !private "StringLiteralType"
+- "UIViewController"
+- !private "BooleanLiteralType"
+- !private "HKAuthorizationStatus"
+- !private "DispatchQueue"
+- !private "HKObjectType"
+- !private "HKQuantityTypeIdentifier"
+- "InitViewController"
+- !private "HKHealthStore"
+- !private "UIAlertController"
+- !private "=="
+depends-member:
+- !private ["Ps9AnyObject", "DispatchQueue"]
+- !private ["Ps9AnyObject", "HKAuthorizationStatus"]
+- !private ["Ps9AnyObject", "HKHealthStore"]
+- !private ["Ps9AnyObject", "HKObjectType"]
+- !private ["Ps9AnyObject", "HKQuantityTypeIdentifier"]
+- !private ["Ps9AnyObject", "UIAlertAction"]
+- !private ["Ps9AnyObject", "UIAlertController"]
+- !private ["Ps9AnyObject", "addAction"]
+- !private ["Ps9AnyObject", "async"]
+- !private ["Ps9AnyObject", "authorizationStatus"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "isHealthDataAvailable"]
+- !private ["Ps9AnyObject", "main"]
+- !private ["Ps9AnyObject", "performSegue"]
+- !private ["Ps9AnyObject", "present"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "quantityType"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "DispatchQueue"]
+- !private ["Ps7CVarArg", "HKAuthorizationStatus"]
+- !private ["Ps7CVarArg", "HKHealthStore"]
+- !private ["Ps7CVarArg", "HKObjectType"]
+- !private ["Ps7CVarArg", "HKQuantityTypeIdentifier"]
+- !private ["Ps7CVarArg", "UIAlertAction"]
+- !private ["Ps7CVarArg", "UIAlertController"]
+- !private ["Ps7CVarArg", "addAction"]
+- !private ["Ps7CVarArg", "async"]
+- !private ["Ps7CVarArg", "authorizationStatus"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "isHealthDataAvailable"]
+- !private ["Ps7CVarArg", "main"]
+- !private ["Ps7CVarArg", "performSegue"]
+- !private ["Ps7CVarArg", "present"]
+- !private ["Ps7CVarArg", "print"]
+- !private ["Ps7CVarArg", "quantityType"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "dietaryFatTotal"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "DispatchQueue"]
+- !private ["Ps28CustomDebugStringConvertible", "HKAuthorizationStatus"]
+- !private ["Ps28CustomDebugStringConvertible", "HKHealthStore"]
+- !private ["Ps28CustomDebugStringConvertible", "HKObjectType"]
+- !private ["Ps28CustomDebugStringConvertible", "HKQuantityTypeIdentifier"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertAction"]
+- !private ["Ps28CustomDebugStringConvertible", "UIAlertController"]
+- !private ["Ps28CustomDebugStringConvertible", "addAction"]
+- !private ["Ps28CustomDebugStringConvertible", "async"]
+- !private ["Ps28CustomDebugStringConvertible", "authorizationStatus"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "isHealthDataAvailable"]
+- !private ["Ps28CustomDebugStringConvertible", "main"]
+- !private ["Ps28CustomDebugStringConvertible", "performSegue"]
+- !private ["Ps28CustomDebugStringConvertible", "present"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "quantityType"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "DispatchQueue"]
+- !private ["Ps23CustomStringConvertible", "HKAuthorizationStatus"]
+- !private ["Ps23CustomStringConvertible", "HKHealthStore"]
+- !private ["Ps23CustomStringConvertible", "HKObjectType"]
+- !private ["Ps23CustomStringConvertible", "HKQuantityTypeIdentifier"]
+- !private ["Ps23CustomStringConvertible", "UIAlertAction"]
+- !private ["Ps23CustomStringConvertible", "UIAlertController"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addAction"]
+- !private ["Ps23CustomStringConvertible", "async"]
+- !private ["Ps23CustomStringConvertible", "authorizationStatus"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "isHealthDataAvailable"]
+- !private ["Ps23CustomStringConvertible", "main"]
+- !private ["Ps23CustomStringConvertible", "performSegue"]
+- !private ["Ps23CustomStringConvertible", "present"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "quantityType"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["CSo14DispatchObject", "async"]
+- !private ["CSo14DispatchObject", "main"]
+- !private ["CSo13DispatchQueue", "async"]
+- ["CSo13DispatchQueue", "deinit"]
+- !private ["CSo13DispatchQueue", "main"]
+- !private ["Ps9Equatable", "DispatchQueue"]
+- !private ["Ps9Equatable", "HKAuthorizationStatus"]
+- !private ["Ps9Equatable", "HKHealthStore"]
+- !private ["Ps9Equatable", "HKObjectType"]
+- !private ["Ps9Equatable", "HKQuantityTypeIdentifier"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "UIAlertAction"]
+- !private ["Ps9Equatable", "UIAlertController"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addAction"]
+- !private ["Ps9Equatable", "alert"]
+- !private ["Ps9Equatable", "async"]
+- !private ["Ps9Equatable", "authorizationStatus"]
+- !private ["Ps9Equatable", "cancel"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "dietaryFatTotal"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "isHealthDataAvailable"]
+- !private ["Ps9Equatable", "main"]
+- !private ["Ps9Equatable", "performSegue"]
+- !private ["Ps9Equatable", "present"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "quantityType"]
+- !private ["Ps9Equatable", "sharingAuthorized"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["OSC21HKAuthorizationStatus", "RawValue"]
+- ["OSC21HKAuthorizationStatus", "deinit"]
+- !private ["OSC21HKAuthorizationStatus", "sharingAuthorized"]
+- !private ["CSo13HKHealthStore", "authorizationStatus"]
+- ["CSo13HKHealthStore", "deinit"]
+- !private ["CSo13HKHealthStore", "init"]
+- !private ["CSo13HKHealthStore", "isHealthDataAvailable"]
+- !private ["CSo12HKObjectType", "quantityType"]
+- ["CSo14HKQuantityType", "deinit"]
+- ["VSC24HKQuantityTypeIdentifier", "deinit"]
+- !private ["VSC24HKQuantityTypeIdentifier", "dietaryFatTotal"]
+- !private ["Ps8Hashable", "DispatchQueue"]
+- !private ["Ps8Hashable", "HKAuthorizationStatus"]
+- !private ["Ps8Hashable", "HKHealthStore"]
+- !private ["Ps8Hashable", "HKObjectType"]
+- !private ["Ps8Hashable", "HKQuantityTypeIdentifier"]
+- !private ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "UIAlertAction"]
+- !private ["Ps8Hashable", "UIAlertController"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addAction"]
+- !private ["Ps8Hashable", "alert"]
+- !private ["Ps8Hashable", "async"]
+- !private ["Ps8Hashable", "authorizationStatus"]
+- !private ["Ps8Hashable", "cancel"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "dietaryFatTotal"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "isHealthDataAvailable"]
+- !private ["Ps8Hashable", "main"]
+- !private ["Ps8Hashable", "performSegue"]
+- !private ["Ps8Hashable", "present"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "quantityType"]
+- !private ["Ps8Hashable", "sharingAuthorized"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["C13TESTIBMSPEECH18InitViewController", "DispatchQueue"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "HKAuthorizationStatus"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "HKHealthStore"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "HKObjectType"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "HKQuantityTypeIdentifier"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "UIAlertAction"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "UIAlertController"]
+- ["C13TESTIBMSPEECH18InitViewController", "deinit"]
+- ["C13TESTIBMSPEECH18InitViewController", "didReceiveMemoryWarning"]
+- ["C13TESTIBMSPEECH18InitViewController", "init"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "performSegue"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "present"]
+- !private ["C13TESTIBMSPEECH18InitViewController", "print"]
+- ["C13TESTIBMSPEECH18InitViewController", "viewDidLoad"]
+- !private ["P7RestKit13JSONDecodable", "_getBuiltinLogicValue"]
+- !private ["P7RestKit13JSONDecodable", "init"]
+- !private ["P7RestKit12JSONPathType", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "DispatchQueue"]
+- !private ["PSo8NSCoding", "HKAuthorizationStatus"]
+- !private ["PSo8NSCoding", "HKHealthStore"]
+- !private ["PSo8NSCoding", "HKObjectType"]
+- !private ["PSo8NSCoding", "HKQuantityTypeIdentifier"]
+- !private ["PSo8NSCoding", "UIAlertAction"]
+- !private ["PSo8NSCoding", "UIAlertController"]
+- !private ["PSo8NSCoding", "addAction"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "performSegue"]
+- !private ["PSo8NSCoding", "present"]
+- !private ["PSo8NSCoding", "print"]
+- !private ["PSo8NSCoding", "quantityType"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "quantityType"]
+- !private ["PSo26NSExtensionRequestHandling", "DispatchQueue"]
+- !private ["PSo26NSExtensionRequestHandling", "HKAuthorizationStatus"]
+- !private ["PSo26NSExtensionRequestHandling", "HKHealthStore"]
+- !private ["PSo26NSExtensionRequestHandling", "HKObjectType"]
+- !private ["PSo26NSExtensionRequestHandling", "HKQuantityTypeIdentifier"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertAction"]
+- !private ["PSo26NSExtensionRequestHandling", "UIAlertController"]
+- !private ["PSo26NSExtensionRequestHandling", "addAction"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "performSegue"]
+- !private ["PSo26NSExtensionRequestHandling", "present"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "DispatchQueue"]
+- !private ["CSo8NSObject", "HKAuthorizationStatus"]
+- !private ["CSo8NSObject", "HKHealthStore"]
+- !private ["CSo8NSObject", "HKObjectType"]
+- !private ["CSo8NSObject", "HKQuantityTypeIdentifier"]
+- !private ["CSo8NSObject", "UIAlertAction"]
+- !private ["CSo8NSObject", "UIAlertController"]
+- !private ["CSo8NSObject", "addAction"]
+- !private ["CSo8NSObject", "async"]
+- !private ["CSo8NSObject", "authorizationStatus"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "isHealthDataAvailable"]
+- !private ["CSo8NSObject", "main"]
+- !private ["CSo8NSObject", "performSegue"]
+- !private ["CSo8NSObject", "present"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "quantityType"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "DispatchQueue"]
+- !private ["PSo16NSObjectProtocol", "HKAuthorizationStatus"]
+- !private ["PSo16NSObjectProtocol", "HKHealthStore"]
+- !private ["PSo16NSObjectProtocol", "HKObjectType"]
+- !private ["PSo16NSObjectProtocol", "HKQuantityTypeIdentifier"]
+- !private ["PSo16NSObjectProtocol", "UIAlertAction"]
+- !private ["PSo16NSObjectProtocol", "UIAlertController"]
+- !private ["PSo16NSObjectProtocol", "addAction"]
+- !private ["PSo16NSObjectProtocol", "async"]
+- !private ["PSo16NSObjectProtocol", "authorizationStatus"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "isHealthDataAvailable"]
+- !private ["PSo16NSObjectProtocol", "main"]
+- !private ["PSo16NSObjectProtocol", "performSegue"]
+- !private ["PSo16NSObjectProtocol", "present"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "quantityType"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "quantityType"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo9OS_object", "async"]
+- !private ["CSo9OS_object", "main"]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["Ps16RawRepresentable", "alert"]
+- !private ["Ps16RawRepresentable", "cancel"]
+- !private ["Ps16RawRepresentable", "dietaryFatTotal"]
+- !private ["Ps16RawRepresentable", "sharingAuthorized"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["CSo13UIAlertAction", "deinit"]
+- !private ["CSo13UIAlertAction", "init"]
+- !private ["OSC18UIAlertActionStyle", "cancel"]
+- ["OSC18UIAlertActionStyle", "deinit"]
+- !private ["CSo17UIAlertController", "addAction"]
+- ["CSo17UIAlertController", "deinit"]
+- !private ["CSo17UIAlertController", "init"]
+- !private ["OSC22UIAlertControllerStyle", "alert"]
+- ["OSC22UIAlertControllerStyle", "deinit"]
+- !private ["PSo21UIAppearanceContainer", "DispatchQueue"]
+- !private ["PSo21UIAppearanceContainer", "HKAuthorizationStatus"]
+- !private ["PSo21UIAppearanceContainer", "HKHealthStore"]
+- !private ["PSo21UIAppearanceContainer", "HKObjectType"]
+- !private ["PSo21UIAppearanceContainer", "HKQuantityTypeIdentifier"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertAction"]
+- !private ["PSo21UIAppearanceContainer", "UIAlertController"]
+- !private ["PSo21UIAppearanceContainer", "addAction"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "performSegue"]
+- !private ["PSo21UIAppearanceContainer", "present"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "DispatchQueue"]
+- !private ["PSo18UIContentContainer", "HKAuthorizationStatus"]
+- !private ["PSo18UIContentContainer", "HKHealthStore"]
+- !private ["PSo18UIContentContainer", "HKObjectType"]
+- !private ["PSo18UIContentContainer", "HKQuantityTypeIdentifier"]
+- !private ["PSo18UIContentContainer", "UIAlertAction"]
+- !private ["PSo18UIContentContainer", "UIAlertController"]
+- !private ["PSo18UIContentContainer", "addAction"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "performSegue"]
+- !private ["PSo18UIContentContainer", "present"]
+- !private ["PSo18UIContentContainer", "print"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "DispatchQueue"]
+- !private ["PSo18UIFocusEnvironment", "HKAuthorizationStatus"]
+- !private ["PSo18UIFocusEnvironment", "HKHealthStore"]
+- !private ["PSo18UIFocusEnvironment", "HKObjectType"]
+- !private ["PSo18UIFocusEnvironment", "HKQuantityTypeIdentifier"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertAction"]
+- !private ["PSo18UIFocusEnvironment", "UIAlertController"]
+- !private ["PSo18UIFocusEnvironment", "addAction"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "performSegue"]
+- !private ["PSo18UIFocusEnvironment", "present"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["CSo11UIResponder", "DispatchQueue"]
+- !private ["CSo11UIResponder", "HKAuthorizationStatus"]
+- !private ["CSo11UIResponder", "HKHealthStore"]
+- !private ["CSo11UIResponder", "HKObjectType"]
+- !private ["CSo11UIResponder", "HKQuantityTypeIdentifier"]
+- !private ["CSo11UIResponder", "UIAlertAction"]
+- !private ["CSo11UIResponder", "UIAlertController"]
+- !private ["CSo11UIResponder", "addAction"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "performSegue"]
+- !private ["CSo11UIResponder", "present"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "DispatchQueue"]
+- !private ["PSo30UIResponderStandardEditActions", "HKAuthorizationStatus"]
+- !private ["PSo30UIResponderStandardEditActions", "HKHealthStore"]
+- !private ["PSo30UIResponderStandardEditActions", "HKObjectType"]
+- !private ["PSo30UIResponderStandardEditActions", "HKQuantityTypeIdentifier"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertAction"]
+- !private ["PSo30UIResponderStandardEditActions", "UIAlertController"]
+- !private ["PSo30UIResponderStandardEditActions", "addAction"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "performSegue"]
+- !private ["PSo30UIResponderStandardEditActions", "present"]
+- !private ["PSo30UIResponderStandardEditActions", "print"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "DispatchQueue"]
+- !private ["PSo16UIStateRestoring", "HKAuthorizationStatus"]
+- !private ["PSo16UIStateRestoring", "HKHealthStore"]
+- !private ["PSo16UIStateRestoring", "HKObjectType"]
+- !private ["PSo16UIStateRestoring", "HKQuantityTypeIdentifier"]
+- !private ["PSo16UIStateRestoring", "UIAlertAction"]
+- !private ["PSo16UIStateRestoring", "UIAlertController"]
+- !private ["PSo16UIStateRestoring", "addAction"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "performSegue"]
+- !private ["PSo16UIStateRestoring", "present"]
+- !private ["PSo16UIStateRestoring", "print"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "DispatchQueue"]
+- !private ["PSo18UITraitEnvironment", "HKAuthorizationStatus"]
+- !private ["PSo18UITraitEnvironment", "HKHealthStore"]
+- !private ["PSo18UITraitEnvironment", "HKObjectType"]
+- !private ["PSo18UITraitEnvironment", "HKQuantityTypeIdentifier"]
+- !private ["PSo18UITraitEnvironment", "UIAlertAction"]
+- !private ["PSo18UITraitEnvironment", "UIAlertController"]
+- !private ["PSo18UITraitEnvironment", "addAction"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "performSegue"]
+- !private ["PSo18UITraitEnvironment", "present"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo16UIViewController", "DispatchQueue"]
+- !private ["CSo16UIViewController", "HKAuthorizationStatus"]
+- !private ["CSo16UIViewController", "HKHealthStore"]
+- !private ["CSo16UIViewController", "HKObjectType"]
+- !private ["CSo16UIViewController", "HKQuantityTypeIdentifier"]
+- !private ["CSo16UIViewController", "UIAlertAction"]
+- !private ["CSo16UIViewController", "UIAlertController"]
+- !private ["CSo16UIViewController", "addAction"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "performSegue"]
+- !private ["CSo16UIViewController", "present"]
+- !private ["CSo16UIViewController", "print"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "DispatchQueue"]
+- !private ["Ps9_Hashable", "HKAuthorizationStatus"]
+- !private ["Ps9_Hashable", "HKHealthStore"]
+- !private ["Ps9_Hashable", "HKObjectType"]
+- !private ["Ps9_Hashable", "HKQuantityTypeIdentifier"]
+- !private ["Ps9_Hashable", "RawValue"]
+- !private ["Ps9_Hashable", "UIAlertAction"]
+- !private ["Ps9_Hashable", "UIAlertController"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addAction"]
+- !private ["Ps9_Hashable", "alert"]
+- !private ["Ps9_Hashable", "async"]
+- !private ["Ps9_Hashable", "authorizationStatus"]
+- !private ["Ps9_Hashable", "cancel"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "dietaryFatTotal"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "isHealthDataAvailable"]
+- !private ["Ps9_Hashable", "main"]
+- !private ["Ps9_Hashable", "performSegue"]
+- !private ["Ps9_Hashable", "present"]
+- !private ["Ps9_Hashable", "print"]
+- !private ["Ps9_Hashable", "quantityType"]
+- !private ["Ps9_Hashable", "sharingAuthorized"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "dietaryFatTotal"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps20_SwiftNewtypeWrapper", "dietaryFatTotal"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "CSo14DispatchObject"
+- "CSo13DispatchQueue"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "OSC21HKAuthorizationStatus"
+- "CSo13HKHealthStore"
+- !private "CSo12HKObjectType"
+- "CSo14HKQuantityType"
+- "VSC24HKQuantityTypeIdentifier"
+- "Ps8Hashable"
+- "C13TESTIBMSPEECH18InitViewController"
+- !private "P7RestKit13JSONDecodable"
+- !private "P7RestKit12JSONPathType"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo9OS_object"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "CSo13UIAlertAction"
+- "OSC18UIAlertActionStyle"
+- "CSo17UIAlertController"
+- "OSC22UIAlertControllerStyle"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps20_SwiftNewtypeWrapper"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCrash/Frameworks/frameworks/FirebaseCrash.framework/Headers/FIRCrashLog.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCrash/Frameworks/frameworks/FirebaseCrash.framework/Headers/FirebaseCrash.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseCrash/Frameworks/frameworks/FirebaseCrash.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseMessaging/Frameworks/frameworks/FirebaseMessaging.framework/Headers/FIRMessaging.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseMessaging/Frameworks/frameworks/FirebaseMessaging.framework/Headers/FirebaseMessaging.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseMessaging/Frameworks/frameworks/FirebaseMessaging.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/FirebaseStorage/Frameworks/frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Photos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Modules/VisualRecognitionV3.swiftmodule/arm64.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Modules/RestKit.swiftmodule/arm64.swiftmodule"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Headers/RestKit-Swift.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Headers/RestKit.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/RestKit.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Headers/VisualRecognitionV3-Swift.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Headers/VisualRecognitionV3.h"
+- "/Users/artemiygalkin/Programming/FoodKitIOS/Carthage/Build/iOS/VisualRecognitionV3.framework/Modules/module.modulemap"
+interface-hash: "1b33b9e3dabe494b0d892162dbfe0794"

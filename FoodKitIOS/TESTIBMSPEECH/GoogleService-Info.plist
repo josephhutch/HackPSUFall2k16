@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>799061874755-42iiaanbhear0923kh9losreju0jumb4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.799061874755-42iiaanbhear0923kh9losreju0jumb4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4z19sUsbKpnUQxa-25j-YNSEc1LIe3NI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>799061874755</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.artemiygalkin.TESTIBMSPEECH</string>
+	<key>PROJECT_ID</key>
+	<string>healthkit-8a6e1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthkit-8a6e1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:799061874755:ios:9ec37e7bb17f87fa</string>
+	<key>DATABASE_URL</key>
+	<string>https://healthkit-8a6e1.firebaseio.com</string>
+</dict>
+</plist>

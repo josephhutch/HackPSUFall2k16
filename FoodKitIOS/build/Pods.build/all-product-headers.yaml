@@ -1,0 +1,122 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Pods.build/Debug-iphoneos/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMLogger.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GoogleToolboxForMac/Foundation/GTMLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Pods.build/Debug-iphoneos/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/Pods_TESTIBMSPEECH.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-TESTIBMSPEECH-umbrella.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/Pods/Target Support Files/Pods-TESTIBMSPEECH/Pods-TESTIBMSPEECH-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_TESTIBMSPEECH-Swift.h",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/Pods_TESTIBMSPEECH.framework/Headers/Pods_TESTIBMSPEECH-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Debug-iphoneos/Pods_TESTIBMSPEECH.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/artemiygalkin/Programming/FoodKitIOS/build/Pods.build/Debug-iphoneos/Pods-TESTIBMSPEECH.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

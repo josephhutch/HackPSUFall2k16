@@ -1,0 +1,431 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConfirmProductViewController"
+provides-nominal:
+- "C13TESTIBMSPEECH28ConfirmProductViewController"
+provides-member:
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", ""]
+provides-dynamic-lookup:
+- "totalCholestrolLabel"
+- "cancelBtnPressed"
+- "viewDidLoad"
+- "confirmBtn"
+- "productNameLabel"
+- "totalFatLabel"
+- "confirmBtnPressed"
+- "totalSodiumLabel"
+- "totalCarbohydratesLabel"
+- "imageView"
+- "totalProteinLabel"
+- "cancelBtn"
+depends-top-level:
+- "AssignmentPrecedence"
+- "ConfirmProductViewController"
+- "UIImageView"
+- "UILabel"
+- "UIViewController"
+- "AnyObject"
+- "UIButton"
+depends-member:
+- ["Ps9AnyObject", "cancelBtn"]
+- ["Ps9AnyObject", "cancelBtnPressed"]
+- ["Ps9AnyObject", "confirmBtn"]
+- ["Ps9AnyObject", "confirmBtnPressed"]
+- !private ["Ps9AnyObject", "cornerRadius"]
+- ["Ps9AnyObject", "imageView"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "layer"]
+- ["Ps9AnyObject", "productNameLabel"]
+- ["Ps9AnyObject", "totalCarbohydratesLabel"]
+- ["Ps9AnyObject", "totalCholestrolLabel"]
+- ["Ps9AnyObject", "totalFatLabel"]
+- ["Ps9AnyObject", "totalProteinLabel"]
+- ["Ps9AnyObject", "totalSodiumLabel"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["CSo7CALayer", "cornerRadius"]
+- ["CSo7CALayer", "deinit"]
+- !private ["PSo15CALayerDelegate", "layer"]
+- !private ["PSo13CAMediaTiming", "cornerRadius"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["Ps7CVarArg", "cancelBtn"]
+- ["Ps7CVarArg", "cancelBtnPressed"]
+- ["Ps7CVarArg", "confirmBtn"]
+- ["Ps7CVarArg", "confirmBtnPressed"]
+- !private ["Ps7CVarArg", "cornerRadius"]
+- ["Ps7CVarArg", "imageView"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "layer"]
+- ["Ps7CVarArg", "productNameLabel"]
+- ["Ps7CVarArg", "totalCarbohydratesLabel"]
+- ["Ps7CVarArg", "totalCholestrolLabel"]
+- ["Ps7CVarArg", "totalFatLabel"]
+- ["Ps7CVarArg", "totalProteinLabel"]
+- ["Ps7CVarArg", "totalSodiumLabel"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "AnyObject"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "UIButton"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "UIImageView"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "UILabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "cancelBtn"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "cancelBtnPressed"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "confirmBtn"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "confirmBtnPressed"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "deinit"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "imageView"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "init"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "productNameLabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "totalCarbohydratesLabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "totalCholestrolLabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "totalFatLabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "totalProteinLabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "totalSodiumLabel"]
+- ["C13TESTIBMSPEECH28ConfirmProductViewController", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", "cancelBtn"]
+- ["Ps28CustomDebugStringConvertible", "cancelBtnPressed"]
+- ["Ps28CustomDebugStringConvertible", "confirmBtn"]
+- ["Ps28CustomDebugStringConvertible", "confirmBtnPressed"]
+- !private ["Ps28CustomDebugStringConvertible", "cornerRadius"]
+- ["Ps28CustomDebugStringConvertible", "imageView"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "layer"]
+- ["Ps28CustomDebugStringConvertible", "productNameLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalCarbohydratesLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalCholestrolLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalFatLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalProteinLabel"]
+- ["Ps28CustomDebugStringConvertible", "totalSodiumLabel"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "cancelBtn"]
+- ["Ps23CustomStringConvertible", "cancelBtnPressed"]
+- ["Ps23CustomStringConvertible", "confirmBtn"]
+- ["Ps23CustomStringConvertible", "confirmBtnPressed"]
+- !private ["Ps23CustomStringConvertible", "cornerRadius"]
+- ["Ps23CustomStringConvertible", "imageView"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "layer"]
+- ["Ps23CustomStringConvertible", "productNameLabel"]
+- ["Ps23CustomStringConvertible", "totalCarbohydratesLabel"]
+- ["Ps23CustomStringConvertible", "totalCholestrolLabel"]
+- ["Ps23CustomStringConvertible", "totalFatLabel"]
+- ["Ps23CustomStringConvertible", "totalProteinLabel"]
+- ["Ps23CustomStringConvertible", "totalSodiumLabel"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "cancelBtn"]
+- ["Ps9Equatable", "cancelBtnPressed"]
+- ["Ps9Equatable", "confirmBtn"]
+- ["Ps9Equatable", "confirmBtnPressed"]
+- !private ["Ps9Equatable", "cornerRadius"]
+- ["Ps9Equatable", "imageView"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "layer"]
+- ["Ps9Equatable", "productNameLabel"]
+- ["Ps9Equatable", "totalCarbohydratesLabel"]
+- ["Ps9Equatable", "totalCholestrolLabel"]
+- ["Ps9Equatable", "totalFatLabel"]
+- ["Ps9Equatable", "totalProteinLabel"]
+- ["Ps9Equatable", "totalSodiumLabel"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "cancelBtn"]
+- ["Ps8Hashable", "cancelBtnPressed"]
+- ["Ps8Hashable", "confirmBtn"]
+- ["Ps8Hashable", "confirmBtnPressed"]
+- !private ["Ps8Hashable", "cornerRadius"]
+- ["Ps8Hashable", "imageView"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "layer"]
+- ["Ps8Hashable", "productNameLabel"]
+- ["Ps8Hashable", "totalCarbohydratesLabel"]
+- ["Ps8Hashable", "totalCholestrolLabel"]
+- ["Ps8Hashable", "totalFatLabel"]
+- ["Ps8Hashable", "totalProteinLabel"]
+- ["Ps8Hashable", "totalSodiumLabel"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "cancelBtn"]
+- ["PSo8NSCoding", "cancelBtnPressed"]
+- ["PSo8NSCoding", "confirmBtn"]
+- ["PSo8NSCoding", "confirmBtnPressed"]
+- !private ["PSo8NSCoding", "cornerRadius"]
+- ["PSo8NSCoding", "imageView"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "layer"]
+- ["PSo8NSCoding", "productNameLabel"]
+- ["PSo8NSCoding", "totalCarbohydratesLabel"]
+- ["PSo8NSCoding", "totalCholestrolLabel"]
+- ["PSo8NSCoding", "totalFatLabel"]
+- ["PSo8NSCoding", "totalProteinLabel"]
+- ["PSo8NSCoding", "totalSodiumLabel"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- ["PSo26NSExtensionRequestHandling", "cancelBtn"]
+- ["PSo26NSExtensionRequestHandling", "cancelBtnPressed"]
+- ["PSo26NSExtensionRequestHandling", "confirmBtn"]
+- ["PSo26NSExtensionRequestHandling", "confirmBtnPressed"]
+- ["PSo26NSExtensionRequestHandling", "imageView"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "productNameLabel"]
+- ["PSo26NSExtensionRequestHandling", "totalCarbohydratesLabel"]
+- ["PSo26NSExtensionRequestHandling", "totalCholestrolLabel"]
+- ["PSo26NSExtensionRequestHandling", "totalFatLabel"]
+- ["PSo26NSExtensionRequestHandling", "totalProteinLabel"]
+- ["PSo26NSExtensionRequestHandling", "totalSodiumLabel"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "cancelBtn"]
+- ["CSo8NSObject", "cancelBtnPressed"]
+- ["CSo8NSObject", "confirmBtn"]
+- ["CSo8NSObject", "confirmBtnPressed"]
+- !private ["CSo8NSObject", "cornerRadius"]
+- ["CSo8NSObject", "imageView"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "layer"]
+- ["CSo8NSObject", "productNameLabel"]
+- ["CSo8NSObject", "totalCarbohydratesLabel"]
+- ["CSo8NSObject", "totalCholestrolLabel"]
+- ["CSo8NSObject", "totalFatLabel"]
+- ["CSo8NSObject", "totalProteinLabel"]
+- ["CSo8NSObject", "totalSodiumLabel"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "cancelBtn"]
+- ["PSo16NSObjectProtocol", "cancelBtnPressed"]
+- ["PSo16NSObjectProtocol", "confirmBtn"]
+- ["PSo16NSObjectProtocol", "confirmBtnPressed"]
+- !private ["PSo16NSObjectProtocol", "cornerRadius"]
+- ["PSo16NSObjectProtocol", "imageView"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "layer"]
+- ["PSo16NSObjectProtocol", "productNameLabel"]
+- ["PSo16NSObjectProtocol", "totalCarbohydratesLabel"]
+- ["PSo16NSObjectProtocol", "totalCholestrolLabel"]
+- ["PSo16NSObjectProtocol", "totalFatLabel"]
+- ["PSo16NSObjectProtocol", "totalProteinLabel"]
+- ["PSo16NSObjectProtocol", "totalSodiumLabel"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- !private ["PSo29UIAccessibilityIdentification", "layer"]
+- !private ["PSo12UIAppearance", "layer"]
+- ["PSo21UIAppearanceContainer", "cancelBtn"]
+- ["PSo21UIAppearanceContainer", "cancelBtnPressed"]
+- ["PSo21UIAppearanceContainer", "confirmBtn"]
+- ["PSo21UIAppearanceContainer", "confirmBtnPressed"]
+- ["PSo21UIAppearanceContainer", "imageView"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "layer"]
+- ["PSo21UIAppearanceContainer", "productNameLabel"]
+- ["PSo21UIAppearanceContainer", "totalCarbohydratesLabel"]
+- ["PSo21UIAppearanceContainer", "totalCholestrolLabel"]
+- ["PSo21UIAppearanceContainer", "totalFatLabel"]
+- ["PSo21UIAppearanceContainer", "totalProteinLabel"]
+- ["PSo21UIAppearanceContainer", "totalSodiumLabel"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo8UIButton", "layer"]
+- ["PSo18UIContentContainer", "cancelBtn"]
+- ["PSo18UIContentContainer", "cancelBtnPressed"]
+- ["PSo18UIContentContainer", "confirmBtn"]
+- ["PSo18UIContentContainer", "confirmBtnPressed"]
+- ["PSo18UIContentContainer", "imageView"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "productNameLabel"]
+- ["PSo18UIContentContainer", "totalCarbohydratesLabel"]
+- ["PSo18UIContentContainer", "totalCholestrolLabel"]
+- ["PSo18UIContentContainer", "totalFatLabel"]
+- ["PSo18UIContentContainer", "totalProteinLabel"]
+- ["PSo18UIContentContainer", "totalSodiumLabel"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["CSo9UIControl", "layer"]
+- !private ["PSo17UICoordinateSpace", "layer"]
+- !private ["PSo13UIDynamicItem", "layer"]
+- ["PSo18UIFocusEnvironment", "cancelBtn"]
+- ["PSo18UIFocusEnvironment", "cancelBtnPressed"]
+- ["PSo18UIFocusEnvironment", "confirmBtn"]
+- ["PSo18UIFocusEnvironment", "confirmBtnPressed"]
+- ["PSo18UIFocusEnvironment", "imageView"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "layer"]
+- ["PSo18UIFocusEnvironment", "productNameLabel"]
+- ["PSo18UIFocusEnvironment", "totalCarbohydratesLabel"]
+- ["PSo18UIFocusEnvironment", "totalCholestrolLabel"]
+- ["PSo18UIFocusEnvironment", "totalFatLabel"]
+- ["PSo18UIFocusEnvironment", "totalProteinLabel"]
+- ["PSo18UIFocusEnvironment", "totalSodiumLabel"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "layer"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "cancelBtn"]
+- ["CSo11UIResponder", "cancelBtnPressed"]
+- ["CSo11UIResponder", "confirmBtn"]
+- ["CSo11UIResponder", "confirmBtnPressed"]
+- ["CSo11UIResponder", "imageView"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "layer"]
+- ["CSo11UIResponder", "productNameLabel"]
+- ["CSo11UIResponder", "totalCarbohydratesLabel"]
+- ["CSo11UIResponder", "totalCholestrolLabel"]
+- ["CSo11UIResponder", "totalFatLabel"]
+- ["CSo11UIResponder", "totalProteinLabel"]
+- ["CSo11UIResponder", "totalSodiumLabel"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "cancelBtn"]
+- ["PSo30UIResponderStandardEditActions", "cancelBtnPressed"]
+- ["PSo30UIResponderStandardEditActions", "confirmBtn"]
+- ["PSo30UIResponderStandardEditActions", "confirmBtnPressed"]
+- ["PSo30UIResponderStandardEditActions", "imageView"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "layer"]
+- ["PSo30UIResponderStandardEditActions", "productNameLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalCarbohydratesLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalCholestrolLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalFatLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalProteinLabel"]
+- ["PSo30UIResponderStandardEditActions", "totalSodiumLabel"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["PSo16UIStateRestoring", "cancelBtn"]
+- ["PSo16UIStateRestoring", "cancelBtnPressed"]
+- ["PSo16UIStateRestoring", "confirmBtn"]
+- ["PSo16UIStateRestoring", "confirmBtnPressed"]
+- ["PSo16UIStateRestoring", "imageView"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "productNameLabel"]
+- ["PSo16UIStateRestoring", "totalCarbohydratesLabel"]
+- ["PSo16UIStateRestoring", "totalCholestrolLabel"]
+- ["PSo16UIStateRestoring", "totalFatLabel"]
+- ["PSo16UIStateRestoring", "totalProteinLabel"]
+- ["PSo16UIStateRestoring", "totalSodiumLabel"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "cancelBtn"]
+- ["PSo18UITraitEnvironment", "cancelBtnPressed"]
+- ["PSo18UITraitEnvironment", "confirmBtn"]
+- ["PSo18UITraitEnvironment", "confirmBtnPressed"]
+- ["PSo18UITraitEnvironment", "imageView"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "layer"]
+- ["PSo18UITraitEnvironment", "productNameLabel"]
+- ["PSo18UITraitEnvironment", "totalCarbohydratesLabel"]
+- ["PSo18UITraitEnvironment", "totalCholestrolLabel"]
+- ["PSo18UITraitEnvironment", "totalFatLabel"]
+- ["PSo18UITraitEnvironment", "totalProteinLabel"]
+- ["PSo18UITraitEnvironment", "totalSodiumLabel"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "layer"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "cancelBtn"]
+- ["CSo16UIViewController", "cancelBtnPressed"]
+- ["CSo16UIViewController", "confirmBtn"]
+- ["CSo16UIViewController", "confirmBtnPressed"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "imageView"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "productNameLabel"]
+- ["CSo16UIViewController", "totalCarbohydratesLabel"]
+- ["CSo16UIViewController", "totalCholestrolLabel"]
+- ["CSo16UIViewController", "totalFatLabel"]
+- ["CSo16UIViewController", "totalProteinLabel"]
+- ["CSo16UIViewController", "totalSodiumLabel"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "layer"]
+- ["Ps9_Hashable", "cancelBtn"]
+- ["Ps9_Hashable", "cancelBtnPressed"]
+- ["Ps9_Hashable", "confirmBtn"]
+- ["Ps9_Hashable", "confirmBtnPressed"]
+- !private ["Ps9_Hashable", "cornerRadius"]
+- ["Ps9_Hashable", "imageView"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "layer"]
+- ["Ps9_Hashable", "productNameLabel"]
+- ["Ps9_Hashable", "totalCarbohydratesLabel"]
+- ["Ps9_Hashable", "totalCholestrolLabel"]
+- ["Ps9_Hashable", "totalFatLabel"]
+- ["Ps9_Hashable", "totalProteinLabel"]
+- ["Ps9_Hashable", "totalSodiumLabel"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "CSo7CALayer"
+- !private "PSo15CALayerDelegate"
+- !private "PSo13CAMediaTiming"
+- "V12CoreGraphics7CGFloat"
+- "Ps7CVarArg"
+- "C13TESTIBMSPEECH28ConfirmProductViewController"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "SQ"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo8UIButton"
+- "PSo18UIContentContainer"
+- !private "CSo9UIControl"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/TextToSpeechV1.framework/Modules/TextToSpeechV1.swiftmodule/x86_64.swiftmodule"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/RestKit.framework/Modules/RestKit.swiftmodule/x86_64.swiftmodule"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/RestKit.framework/Headers/RestKit-Swift.h"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/RestKit.framework/Headers/RestKit.h"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/RestKit.framework/Modules/module.modulemap"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/TextToSpeechV1.framework/Headers/TextToSpeechV1-Swift.h"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/TextToSpeechV1.framework/Headers/TextToSpeechV1.h"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/TextToSpeechV1.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/VisualRecognitionV3.framework/Modules/VisualRecognitionV3.swiftmodule/x86_64.swiftmodule"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/VisualRecognitionV3.framework/Headers/VisualRecognitionV3-Swift.h"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/VisualRecognitionV3.framework/Headers/VisualRecognitionV3.h"
+- "/Users/artemiygalkin/Programming/TESTIBMSPEECH/Carthage/Build/iOS/VisualRecognitionV3.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "3731bbe5588ebd8339c6965624268a15"
